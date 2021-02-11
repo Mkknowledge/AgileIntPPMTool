@@ -1,4 +1,4 @@
-package io.kittuintelligence.ppmtool.domain;
+package io.agileintelligence.ppmtool.domain;
 
 import java.util.Date;
 

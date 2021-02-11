@@ -1,10 +1,10 @@
-package io.kittuintelligence.ppmtool.services;
+package io.agileintelligence.ppmtool.services;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import io.kittuintelligence.ppmtool.domain.Project;
-import io.kittuintelligence.ppmtool.repositories.ProjectRepository;
+import io.agileintelligence.ppmtool.domain.Project;
+import io.agileintelligence.ppmtool.repositories.ProjectRepository;
 
 @Service
 public class ProjectService {

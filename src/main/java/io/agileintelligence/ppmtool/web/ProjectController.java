@@ -1,4 +1,4 @@
-package io.kittuintelligence.ppmtool.web;
+package io.agileintelligence.ppmtool.web;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -15,9 +15,9 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import io.kittuintelligence.ppmtool.domain.Project;
-import io.kittuintelligence.ppmtool.services.MapValidationErrorService;
-import io.kittuintelligence.ppmtool.services.ProjectService;
+import io.agileintelligence.ppmtool.domain.Project;
+import io.agileintelligence.ppmtool.services.MapValidationErrorService;
+import io.agileintelligence.ppmtool.services.ProjectService;
 
 @RestController
 @RequestMapping("/api/project")

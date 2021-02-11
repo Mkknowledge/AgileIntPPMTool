@@ -1,4 +1,4 @@
-package io.kittuintelligence.ppmtool.services;
+package io.agileintelligence.ppmtool.services;
 
 import java.util.HashMap;
 import java.util.Map;
